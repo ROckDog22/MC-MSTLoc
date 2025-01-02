@@ -1,0 +1,26 @@
+Cytosol: 7:  69
+Focal adhesion sites: 16:  6
+Mitochondria: 0:  29
+Centrosome: 18:  6
+Peroxisomes: 14:  3
+Golgi apparatus: 12:  10
+Microtubule organizing center: 17:  2
+Nucleoplasm: 6:  105
+Cytokinetic bridge: 24:  4
+Cytoplasmic bodies: 26:  1
+Endosomes: 19:  2
+Lipid droplets: 25:  2
+Lysosomes: 2:  2
+Plasma membrane: 5:  23
+Nucleoli: 8:  15
+Mitotic spindle: 23:  1
+Endoplasmic reticulum: 11:  15
+Actin filaments: 13:  4
+Cell Junctions: 20:  5
+Nucleus: 1:  24
+Nuclear membrane: 15:  5
+Intermediate filaments: 22:  4
+Microtubules: 21:  2
+Nuclear bodies: 10:  7
+Nuclear speckles: 4:  12
+Vesicles: 9:  22
